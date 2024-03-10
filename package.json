@@ -1,6 +1,6 @@
 {
   "name": "ipfs-blob-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An abstract-blob-store compatible implementation built using IPFS as the storage backend",
   "main": "src/index.js",
   "browser": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "An abstract-blob-store compatible implementation built using IPFS as the storage backend"
+    "url": "https://github.com/orzmaker/ipfs-blob-storage.git"
   },
   "keywords": [
     "ipfs",
@@ -28,7 +28,7 @@
   ],
   "author": "IPFS",
   "license": "MIT",
-  "homepage": "An abstract-blob-store compatible implementation built using IPFS as the storage backend",
+  "homepage": "https://github.com/orzmaker/ipfs-blob-storage.git",
   "devDependencies": {
     "abstract-blob-store": "^3.3.4",
     "aegir": "^17.0.1",
